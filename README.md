@@ -2,6 +2,8 @@
 
 This is a simple music player implemented using HTML, CSS, and JavaScript. It allows users to play music files easily in their web browsers without any additional plugins or software.
 
+![Project Image](ProjectPic.png "Project Image")
+
 ## Tech Stack
 
 1. HTML
