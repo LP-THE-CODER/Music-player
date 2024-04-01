@@ -36,9 +36,7 @@ git clone https://github.com/lp-the-coder/Music-player.io.git
 
 4. Enjoy listening to your favorite music!
 
-## Screenshots
 
-[Include screenshots of your music player here if applicable]
 
 ## Contributing
 
